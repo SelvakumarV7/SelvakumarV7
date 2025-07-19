@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with Placement in a Great Organisation
 - Previously worked: TNQ Tech [<img width="50" height="50" src="https://tnqtech.com/wp-content/uploads/2024/01/TNQTech-Logo_CROPPED.png" alt="tnq_logo"/>](https://tnqtech.com/)
 - 📫 How to reach me:
-<br>[<img width="40" height="40" src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new"/>](selvakmr137@gmail.com/)
-[<img width="40" height="40" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/selvakumar-v-10b364200/)
+<br>[<img width="40" height="40" src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new"/>](https://selvakmr137@gmail.com/)
+[<img width="40" height="40" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/selvakumar-v-10b364200/)
 - Love to Learn📔💻
 - Hard Work Never Fails💪🏽🦁
 
