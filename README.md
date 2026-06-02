@@ -1,9 +1,9 @@
 ## Hi there 👋 It's me Selvakumar...
-Love to be a Software Engineer
+Love to be a FUll Stack Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-- 🔭 I’m currently learing ML/AI
+- 🔭 I’m currently learing MERN Full Stack Developer
 - 👯 I’m looking to collaborate on Python and its Framework Django
-- 🤔 I’m looking for help with Placement in a Great Organisation
+- 🤔 I’m looking for Placement in a Great Organisation
 - Previously worked:[<img width="50" height="50" src="https://tnqtech.com/wp-content/uploads/2024/01/TNQTech-Logo_CROPPED.png" alt="tnq_logo"/>](https://tnqtech.com/) TNQ Tech 
 - 📫 Linkdin:
 <br>[<img width="40" height="40" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/selvakumar-v-10b364200/)
