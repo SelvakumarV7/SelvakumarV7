@@ -4,7 +4,7 @@ Love to be a Full Stack Software Developer
 - 🔭 I’m currently learing MERN Full Stack Developer
 - 👯 I’m looking to collaborate on Full Stack Developing Projects
 - 🤔 I’m looking for Placement in a Great Organisation
-- Previously worked:[<img width="30" height="10" src="https://tnqtech.com/wp-content/uploads/2024/01/TNQTech-Logo_CROPPED.png" alt="tnq_logo"/>](https://tnqtech.com/) TNQ Tech 
+- Previously worked:[<img width="40" height="10" src="https://tnqtech.com/wp-content/uploads/2024/01/TNQTech-Logo_CROPPED.png" alt="tnq_logo"/>](https://tnqtech.com/) TNQ Tech 
 - 📫 Linkdin:
 <br>[<img width="40" height="40" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/selvakumar-v-10b364200/)
 - Love to Learn📔💻
