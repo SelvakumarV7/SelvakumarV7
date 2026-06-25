@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Selvakumar...
-Love to be a FUll Stack Software Developer
+Love to be a Full Stack Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - 🔭 I’m currently learing MERN Full Stack Developer
 - 👯 I’m looking to collaborate on Python and its Framework Django
